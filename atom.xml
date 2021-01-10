@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yang</title>
   
-  
+  <subtitle>Yang</subtitle>
   <link href="https://thothyang.github.io/yang3s.github.io/atom.xml" rel="self"/>
   
   <link href="https://thothyang.github.io/yang3s.github.io/"/>
