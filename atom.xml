@@ -6,7 +6,7 @@
   <link href="https://thothyang.github.io/yang3s.github.io/atom.xml" rel="self"/>
   
   <link href="https://thothyang.github.io/yang3s.github.io/"/>
-  <updated>2021-01-09T13:12:18.850Z</updated>
+  <updated>2021-01-09T13:02:25.291Z</updated>
   <id>https://thothyang.github.io/yang3s.github.io/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>article title</title>
-    <link href="https://thothyang.github.io/yang3s.github.io/article-title/"/>
-    <id>https://thothyang.github.io/yang3s.github.io/article-title/</id>
-    <published>2021-01-09T13:12:18.000Z</published>
-    <updated>2021-01-09T13:12:18.850Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
