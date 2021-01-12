@@ -242,8 +242,8 @@ mark {
     margin-bottom: 0;
 }
 
-.bg-color {
-    background-image: linear-gradient(to right, #4cbf30 0%, #0f9d58 100%);
+.bg-color { 
+    background-image: linear-gradient(to right, #FF7F00 0%, #8B00FF 100%); opacity: 1;
 }
 
 .text-color {
@@ -640,8 +640,7 @@ header .go-back i {
         background: -webkit-linear-gradient(135deg, rgba(2233, 30, 99, 0.75) 0%, rgba(233, 30, 99, 0.65) 100%);
     }
 }
-
-@keyframes rainbow {
+ @keyframes rainbow {
 
     0%,
     100% {
