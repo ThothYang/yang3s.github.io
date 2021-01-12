@@ -6,7 +6,7 @@
   <link href="https://thothyang.github.io/yang3s.github.io/atom.xml" rel="self"/>
   
   <link href="https://thothyang.github.io/yang3s.github.io/"/>
-  <updated>2021-01-09T13:02:25.291Z</updated>
+  <updated>2021-01-12T18:11:47.498Z</updated>
   <id>https://thothyang.github.io/yang3s.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Pale Blue Dot</title>
+    <link href="https://thothyang.github.io/yang3s.github.io/dot/"/>
+    <id>https://thothyang.github.io/yang3s.github.io/dot/</id>
+    <published>2021-01-12T17:30:33.000Z</published>
+    <updated>2021-01-12T18:11:47.498Z</updated>
+    
+    
+    <summary type="html">&lt;img src=&quot;/dot/image.jpg&quot; class title=&quot;64亿公里外遥望地球&quot;&gt;</summary>
+    
+    
+    
+    <category term="天文" scheme="https://thothyang.github.io/yang3s.github.io/categories/%E5%A4%A9%E6%96%87/"/>
+    
+    
+    <category term="天文" scheme="https://thothyang.github.io/yang3s.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    
+    <category term="名言" scheme="https://thothyang.github.io/yang3s.github.io/tags/%E5%90%8D%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
