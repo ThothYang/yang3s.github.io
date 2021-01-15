@@ -3,11 +3,11 @@
   <title>Yang Studio</title>
   
   <subtitle>Yang Studio</subtitle>
-  <link href="https://thothyang.github.io/yang3s.github.io/atom.xml" rel="self"/>
+  <link href="https://www.yang3s.com/atom.xml" rel="self"/>
   
-  <link href="https://thothyang.github.io/yang3s.github.io/"/>
+  <link href="https://www.yang3s.com/"/>
   <updated>2021-01-15T09:18:27.786Z</updated>
-  <id>https://thothyang.github.io/yang3s.github.io/</id>
+  <id>https://www.yang3s.com/</id>
   
   <author>
     <name>Yang Zhen</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>缅怀虾米</title>
-    <link href="https://thothyang.github.io/yang3s.github.io/xiami/"/>
-    <id>https://thothyang.github.io/yang3s.github.io/xiami/</id>
+    <link href="https://www.yang3s.com/xiami/"/>
+    <id>https://www.yang3s.com/xiami/</id>
     <published>2021-01-15T08:28:28.000Z</published>
     <updated>2021-01-15T09:18:27.786Z</updated>
     
@@ -28,19 +28,19 @@
     
     
     
-    <category term="随笔" scheme="https://thothyang.github.io/yang3s.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.yang3s.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="音乐" scheme="https://thothyang.github.io/yang3s.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="https://www.yang3s.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
-    <category term="随笔" scheme="https://thothyang.github.io/yang3s.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://www.yang3s.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>Pale Blue Dot</title>
-    <link href="https://thothyang.github.io/yang3s.github.io/dot/"/>
-    <id>https://thothyang.github.io/yang3s.github.io/dot/</id>
+    <link href="https://www.yang3s.com/dot/"/>
+    <id>https://www.yang3s.com/dot/</id>
     <published>2021-01-12T17:30:33.000Z</published>
     <updated>2021-01-12T18:17:38.045Z</updated>
     
@@ -49,33 +49,12 @@
     
     
     
-    <category term="天文" scheme="https://thothyang.github.io/yang3s.github.io/categories/%E5%A4%A9%E6%96%87/"/>
+    <category term="天文" scheme="https://www.yang3s.com/categories/%E5%A4%A9%E6%96%87/"/>
     
     
-    <category term="天文" scheme="https://thothyang.github.io/yang3s.github.io/tags/%E5%A4%A9%E6%96%87/"/>
+    <category term="天文" scheme="https://www.yang3s.com/tags/%E5%A4%A9%E6%96%87/"/>
     
-    <category term="名言" scheme="https://thothyang.github.io/yang3s.github.io/tags/%E5%90%8D%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://thothyang.github.io/yang3s.github.io/hello-world/"/>
-    <id>https://thothyang.github.io/yang3s.github.io/hello-world/</id>
-    <published>2021-01-09T13:02:25.291Z</published>
-    <updated>2021-01-09T13:02:25.291Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
+    <category term="名言" scheme="https://www.yang3s.com/tags/%E5%90%8D%E8%A8%80/"/>
     
   </entry>
   
